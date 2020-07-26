@@ -1,0 +1,12 @@
+/Users/edyta/Projects/gra_snake_projekt/gra_snake_projekt/bin/Debug/netcoreapp3.1/gra_snake_projekt.deps.json
+/Users/edyta/Projects/gra_snake_projekt/gra_snake_projekt/bin/Debug/netcoreapp3.1/gra_snake_projekt.runtimeconfig.json
+/Users/edyta/Projects/gra_snake_projekt/gra_snake_projekt/bin/Debug/netcoreapp3.1/gra_snake_projekt.runtimeconfig.dev.json
+/Users/edyta/Projects/gra_snake_projekt/gra_snake_projekt/bin/Debug/netcoreapp3.1/gra_snake_projekt.dll
+/Users/edyta/Projects/gra_snake_projekt/gra_snake_projekt/bin/Debug/netcoreapp3.1/gra_snake_projekt.pdb
+/Users/edyta/Projects/gra_snake_projekt/gra_snake_projekt/obj/Debug/netcoreapp3.1/gra_snake_projekt.csprojAssemblyReference.cache
+/Users/edyta/Projects/gra_snake_projekt/gra_snake_projekt/obj/Debug/netcoreapp3.1/gra_snake_projekt.AssemblyInfoInputs.cache
+/Users/edyta/Projects/gra_snake_projekt/gra_snake_projekt/obj/Debug/netcoreapp3.1/gra_snake_projekt.AssemblyInfo.cs
+/Users/edyta/Projects/gra_snake_projekt/gra_snake_projekt/obj/Debug/netcoreapp3.1/gra_snake_projekt.csproj.CoreCompileInputs.cache
+/Users/edyta/Projects/gra_snake_projekt/gra_snake_projekt/obj/Debug/netcoreapp3.1/gra_snake_projekt.dll
+/Users/edyta/Projects/gra_snake_projekt/gra_snake_projekt/obj/Debug/netcoreapp3.1/gra_snake_projekt.pdb
+/Users/edyta/Projects/gra_snake_projekt/gra_snake_projekt/obj/Debug/netcoreapp3.1/gra_snake_projekt.genruntimeconfig.cache

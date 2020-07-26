@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "gra_snake_projekt/1.0.0": {
+        "runtime": {
+          "gra_snake_projekt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gra_snake_projekt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
